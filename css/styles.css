@@ -1,0 +1,142 @@
+/*=================================Tag=============================*/
+body {
+  background-color: #dbe2ef;
+  color: #b83b5e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Gotu', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top: 10px dotted #c7b198;
+  width: 40px;
+  margin: 50px auto;
+}
+
+h1 {
+  color: #364f6b;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  color: #364f6b;
+  font-family: 'El Messiri', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #364f6b;
+  font-family: 'El Messiri', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+/*================================Class===========================*/
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 450px;
+}
+
+.bottom-container {
+  color: #07031a;
+  background-color: #ba7967;
+  padding: 50px 0 15px 0;
+}
+
+.btn {
+  background: #BA7967;
+  background-image: -webkit-linear-gradient(top, #BA7967, #76493D);
+  background-image: -moz-linear-gradient(top, #BA7967, #76493D);
+  background-image: -ms-linear-gradient(top, #BA7967, #76493D);
+  background-image: -o-linear-gradient(top, #BA7967, #76493D);
+  background-image: linear-gradient(to bottom, #BA7967, #76493D);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Gotu', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px 0;
+}
+
+.contact-me {
+  margin: auto;
+  padding-bottom: 20px;
+  width: 50%;
+}
+
+.description-profile {
+  text-align: center;
+  width: 75%
+}
+
+.foot-linker {
+  color: #364f6b;
+  line-height: 2;
+  margin: 20px 30px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.foot-linker:hover {
+  color: #EAF6F6;
+}
+
+.img-skill-analysis {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.img-skill-programming {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.middle-container {
+  background-color: #f5f5f5;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  padding-top: 100px;
+}
+
+.skill-row {
+  margin: 50px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.special-text {
+  font-family: 'VT323', monospace;
+  font-size: 2.8rem;
+  font-weight: bold;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 80px;
+  right: 400px;
+}
+
+.top-container {
+  background-color: #f0ece3;
+  position: relative;
+  padding-top: 100px;
+}
